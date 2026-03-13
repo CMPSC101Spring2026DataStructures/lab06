@@ -2,7 +2,9 @@
 
 ## Overview
 
-🎯 This repository contains a **practice midterm exam** for CS101: Introduction to Computer Science — Data Structures. The practice test is designed to help you prepare for the actual midterm by working through multiple-choice questions that cover the same topics and skills.
+🎯 This repository contains a **practice midterm exam** for CS101: Data Structures. The practice test is designed to help you prepare for the actual midterm by working through multiple-choice questions that cover the same topics and skills. 
+
+*Note: Unless there is a change, the Midterm Exam will be planned for next week during lab time (20th March 2026).*
 
 ## Assigned and Due
 
