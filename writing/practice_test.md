@@ -1,13 +1,10 @@
 # CS101 Spring 2026 — Practice Midterm (Multiple Choice)
 
-**Total Points:** 100 (25 questions × 4 points each)
-
 Name: Add Your Name Here  
-Date: ________________________
+Date: Add Date Here
 
 **Instructions:** For each question, record your answer by replacing `TODO` with
-the letter of the single best response (a, b, c, or d). Each question is worth
-4 points.
+the letter of the single best response (a, b, c, or d). 
 
 ---
 
