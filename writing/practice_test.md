@@ -124,8 +124,8 @@ for name in grades.keys():
 
 c) 
 ```python
-for name, grade in grades.items():
-    print(name, grade)
+for name in grades:
+    print(name, grades[name])
 ```
 
 d)
