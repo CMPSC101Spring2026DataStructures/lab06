@@ -1,8 +1,0 @@
-[project]
-name = "cs101-practice-midterm"
-version = "0.1.0"
-description = "CS101 Spring 2026 — Practice Midterm (Multiple Choice)"
-readme = "README.md"
-
-requires-python = ">=3.8"
-dependencies = []
